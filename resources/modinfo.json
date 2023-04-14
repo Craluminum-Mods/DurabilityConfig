@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "durabilityconfig",
+    "name": "Durability Config",
+    "description": "Allows to configure durability of vanilla and modded items and blocks",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
